@@ -1,0 +1,63 @@
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+C:\Users\Fadi\AppData\Local\Temporary Projects\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+F:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+G:\Thesis Project 30-06\OfficeWork\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
+C:\Users\fadir\Desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+C:\Users\fadir\Desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+C:\Users\fadir\Desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+C:\Users\fadir\Desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe.config
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.exe
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.xml
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.pdb
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.exe
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.pdb
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\bin\Debug\Retrieve Traffic Parameters.xml
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Form1.resources
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve_Traffic_Parameters.Resources.resources
+E:\Desktop and document\desktop\Final Thesis Files 16-10-2019\Retrieve Traffic Parameters - 2\Retrieve Traffic Parameters\obj\x86\Debug\Retrieve Traffic Parameters.vbproj.GenerateResource.Cache
